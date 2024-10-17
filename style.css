@@ -1,13 +1,12 @@
-/* Resetare stiluri implicite */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Stiluri generale */
   body {
-    background-image: 'pes.jpg';
+    background-image: url('pes 4.jpg');
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
